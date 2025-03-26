@@ -38,6 +38,11 @@ Update the database credentials in .env:
    ./vendor/bin/pest
 ```
 
+- API documentation link
+```
+   https://e-commerce.test/api/documentation
+```
+
 ### For Docker
 
 - Install `docker & docker-compose` in your machine.
